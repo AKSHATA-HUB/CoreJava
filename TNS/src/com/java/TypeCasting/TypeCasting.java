@@ -38,5 +38,6 @@ public class TypeCasting {
 		System.out.println(qwe);
 
 	}
+	Scanner
 
 }
